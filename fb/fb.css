@@ -1,0 +1,160 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0%;
+    font-family:Helvetica, Arial, sans-serif ;
+}
+.logo{
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+    
+    
+
+}
+.login{
+    width: 50%;
+    float: left;
+    color: white;
+}
+.logo-text{
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 130px;
+
+}
+.login-controls{
+    margin-left: 115px;
+    font-size: 13px;
+    padding-top: 15px;
+
+}
+.forgotten{
+    color: #9cb4d8;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.sub-btn{
+    background-color: #4267b2;
+    color: white;
+    border-color: #29467d;
+    height: 22px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: blue;
+    
+}
+.Login-label{
+    margin-left: 10px;
+}
+.distance{
+    margin-left: 10px;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 130px;
+    padding-top: 20px;
+}
+.right-section{
+    width: 40%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 570px;
+}
+.image{
+    width: 580px;
+}
+.para{
+    font-weight: bold;
+    font-size: 22px;
+}
+.creat{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.its{
+    font-size: 25px;
+    margin-top: -35px;
+}
+.field{
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    border-color: #e6dbdb;
+    font-size: 17px;
+}
+.number{
+    height: 30px;
+    width: 413px;
+    border-radius: 5px;
+    border-color: #e6dbdb;
+    margin-top: 10px;
+    font-size: 17px;
+}
+.password{
+    height: 30px;
+    width: 413px;
+    border-radius: 5px;
+    border-color: #e6dbdb;
+    margin-top: 10px;
+    font-size: 17px;
+}
+.birth{
+    font-size: 17px;
+    color: #303441;
+    margin-block-end: 3px;
+}
+.select{
+   border-color: white;
+   height: 30px;
+}
+.gender{
+    font-size: 17px;
+    color: #303441;
+    margin-top: 10px;
+}
+.outline{
+    font-size: 12px;
+    color: #273b7c;
+}
+.signup{
+    background: rgb(64 145 64);
+    border-radius: 8px;
+    border-color: rgb(196, 221, 196);
+    font-size: 15px;
+    font-weight: bold;
+    width: 200px;
+    height: 35px;
+    color: white;
+    font-style: initial;
+    
+}
+.lastline{
+    color: #273b7c;
+    font-size: 15px;
+    padding-left: 108px;
+}
+.creatpage{
+    margin-top: 35px;
+    text-decoration: none;
+}    
+.page{
+    font-size: 15px;
+    margin-top: 22px;
+}
+.line{
+    margin-top: -28px;
+}
